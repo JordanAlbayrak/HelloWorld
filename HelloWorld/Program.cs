@@ -12,7 +12,9 @@ namespace HelloWorld
             Console.ReadLine();
             Console.WriteLine("This is a test, my name is {0}", myName);
             Console.ReadLine();
-            Console.WriteLine(" Top 1 greatest anime  : {0}", myAnime);
+            Console.WriteLine("Lol and done", myName);
+            Console.ReadLine();
+            Console.WriteLine(" Top 1 greatest anime :  {0}", myAnime);
             Console.ReadLine();
         }
     }
